@@ -1,6 +1,9 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Hi%20👋,%20I'm%20otterji&fontSize=45&animation=scaleIn&fontColor=ffffff&desc=𝗙𝗘%20𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛%20𝚠𝚑𝚘%20𝚕𝚘𝚟𝚎𝚜%20𝗼𝘁𝘁𝗲𝗿%20🦦💛&fontAlignY=35&descAlignY=53)
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=otterji&label=Profile%20views&color=0e75b6&style=flat" alt="otterji" /> </p>
+
+
 
 - 🔭 I’m currently working on **D.NABI Inc**
 
