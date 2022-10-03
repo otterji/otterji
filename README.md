@@ -7,8 +7,7 @@
 
 - 🔭  I’m currently working on **D.NABI Inc**
 
-- 📫  How to reach me **youngsdg1@gmail.com**
-
+- 📫  How to reach me **https://velog.io/@otterji**
 
 
 
