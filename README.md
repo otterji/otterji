@@ -10,7 +10,7 @@
 - 📫  How to reach me **https://velog.io/@otterji**
 
 
- <img src="https://server.dooboo.io/github-stats-advanced/otterji" alt="hi" height="350" />
+ <img src="https://stats.hyochan.dev/api/github-stats?login=otterji" alt="hi" height="350" />
 
 <h3 align="left">Languages and Tools:</h3>
 
