@@ -5,7 +5,7 @@
 
 
 
-- 🔭  I’m currently working on **D.NABI Inc**
+- 🔭  I’m currently working on 🐜 [**aaant**](https://www.aaant.co/) 🐜
 
 - 📫  How to reach me **https://velog.io/@otterji**
 
