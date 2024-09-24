@@ -5,7 +5,7 @@
 
 
 
-- 🔭  I’m currently working on 🐜 [**aaant**](https://www.aaant.co/) 🐜
+- 🔭  I’m currently working on 🌱 [**단비교육**](https://danbiedu.co.kr/) 🌱
 
 - 📫  How to reach me **https://velog.io/@otterji**
 
